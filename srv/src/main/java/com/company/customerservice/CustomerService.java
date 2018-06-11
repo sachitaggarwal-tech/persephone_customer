@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import com.company.model.Customer;
 import com.sap.cloud.sdk.s4hana.connectivity.ErpConfigContext;
 import com.sap.cloud.sdk.s4hana.connectivity.ErpEndpoint;
 import com.sap.cloud.sdk.s4hana.datamodel.odata.namespaces.businesspartner.BusinessPartner;

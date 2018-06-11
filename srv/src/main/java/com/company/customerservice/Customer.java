@@ -1,4 +1,4 @@
-package com.company.model;
+package com.company.customerservice;
 
 public class Customer {
 
