@@ -52,9 +52,9 @@ In Below application we use S4Hana SDK APIs to connect to S4Hana backend and exp
 
    
 # 3.Running Application
-* Open APP - https://<cf app url deployed above>/odata/v2/CatalogService/Customer to view list of customers from S4Hana  
-* Open APP - https://<cf app url deployed above>/odata/v2/CatalogService/Customer('<customer id>') to view list of customers from S4Hana
-* Perform 'post' operation to https://<cf app url deployed above>/odata/v2/CatalogService/Customer to create new customer in S4Hana
+* Open APP - https://cfappurldeployedabove/odata/v2/CatalogService/Customer to view list of customers from S4Hana  
+* Open APP - https://cfappurldeployedabove/odata/v2/CatalogService/Customer('<customer id>') to view list of customers from S4Hana
+* Perform 'post' operation to https://cfappurldeployedabove/odata/v2/CatalogService/Customer to create new customer in S4Hana
     * Payload - {  "CustomerFirstName" : "Yelo", "CustomerLastName"  : "Dhawan", "CustomerCountry": "IN", "CustomerCity": "Mumbai"}
   
 
